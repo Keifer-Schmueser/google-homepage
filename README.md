@@ -1,1 +1,1 @@
-Reconstructing the googe homepage.
+Reconstructing the google homepage.
